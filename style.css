@@ -1338,6 +1338,23 @@ footer .copyright{
 }
 
 
+/* short film  */
+
+.categories .short{
+  gap: 2.5rem;
+}
+
+/* pre wedding */
+
+
+.categories .pre_wed .box3 img {
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  padding: 10px;
+}
+
+
 
 
 
@@ -1735,6 +1752,28 @@ footer .copyright{
   text-align:start;
   margin-left: 7.5px;
 }
+
+
+
+/* pre wedding */
+
+
+.categories .box-container .box3{
+  width: 335px;
+
+}
+
+.categories .box-container .box3 img {
+  border-radius: .3rem;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+}
+
+
+/* ed */    
+
+    
 
 .tab-contents.active-tab {
   display: block;
